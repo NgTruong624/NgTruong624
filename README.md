@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm NgTrun</h1>
+<h1 align="center">Hi 👋, I'm Trun</h1>
 <h3 align="center">A passionate student from Vietnam with a focus on Backend Development</h3>
 
 - 📫 How to reach me **etouusan5@gmail.com**
