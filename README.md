@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Trun</h1>
+<h1 align="center">Hi 👋, I'm NgTruong</h1>
 <h3 align="center">A passionate student from Vietnam with a focus on Backend Development</h3>
 
 - 👨‍💻 All of my projects are available at [playdber.me](https://playdber.me)
